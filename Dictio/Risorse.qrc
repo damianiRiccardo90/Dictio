@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Risorse/Icons/addUser.png</file>
+        <file>Risorse/Icons/removeUser.png</file>
+        <file>Risorse/Icons/addWord.png</file>
+        <file>Risorse/Icons/searchWord.png</file>
+        <file>Risorse/Icons/removeWord.png</file>
+        <file>Risorse/Icons/modifyWord.png</file>
+        <file>Risorse/Icons/appIcon.png</file>
+        <file>Risorse/Icons/history.png</file>
+        <file>Risorse/Icons/changeUser.png</file>
+        <file>Risorse/Icons/star.png</file>
+        <file>Risorse/Icons/filledStar.png</file>
+        <file>Risorse/Icons/bookmarks.png</file>
+        <file>Risorse/Icons/exit.png</file>
+        <file>Risorse/Icons/admin.png</file>
+        <file>Risorse/Icons/operator.png</file>
+        <file>Risorse/Icons/guest.png</file>
+        <file>Risorse/Icons/background.png</file>
+    </qresource>
+</RCC>

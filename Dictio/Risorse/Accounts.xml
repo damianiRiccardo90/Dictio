@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<accounts>
+    <account>
+        <username>admin</username>
+        <password>admin</password>
+        <current_user>false</current_user>
+        <type>Admin</type>
+    </account>
+</accounts>
